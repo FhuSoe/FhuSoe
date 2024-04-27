@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play a lot of games so you can reach to me if you want to play something
+- ⚡ Fun fact: I play a lot of games. Like a lot.
 
 <!---
 FhuSoe/FhuSoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
